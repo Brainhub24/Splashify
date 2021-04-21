@@ -1,0 +1,2 @@
+# Splashify
+A simple landingpage
